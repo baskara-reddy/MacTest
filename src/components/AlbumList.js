@@ -6,6 +6,7 @@ import AlbumDetail from './AlbumDetail';
 //const AlbumList = () => {
 
 class AlbumList extends Component {
+    // eslint-disable-next-line no-undef
     state = { albums: [] };
 
     componentWillMount() {
